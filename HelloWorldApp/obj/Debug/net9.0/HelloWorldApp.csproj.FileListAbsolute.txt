@@ -1,0 +1,14 @@
+/Users/rajpanjabi/dev/Asp.net/HelloWorldApp/obj/Debug/net9.0/HelloWorldApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rajpanjabi/dev/Asp.net/HelloWorldApp/obj/Debug/net9.0/HelloWorldApp.AssemblyInfoInputs.cache
+/Users/rajpanjabi/dev/Asp.net/HelloWorldApp/obj/Debug/net9.0/HelloWorldApp.AssemblyInfo.cs
+/Users/rajpanjabi/dev/Asp.net/HelloWorldApp/obj/Debug/net9.0/HelloWorldApp.csproj.CoreCompileInputs.cache
+/Users/rajpanjabi/dev/Asp.net/HelloWorldApp/bin/Debug/net9.0/HelloWorldApp
+/Users/rajpanjabi/dev/Asp.net/HelloWorldApp/bin/Debug/net9.0/HelloWorldApp.deps.json
+/Users/rajpanjabi/dev/Asp.net/HelloWorldApp/bin/Debug/net9.0/HelloWorldApp.runtimeconfig.json
+/Users/rajpanjabi/dev/Asp.net/HelloWorldApp/bin/Debug/net9.0/HelloWorldApp.dll
+/Users/rajpanjabi/dev/Asp.net/HelloWorldApp/bin/Debug/net9.0/HelloWorldApp.pdb
+/Users/rajpanjabi/dev/Asp.net/HelloWorldApp/obj/Debug/net9.0/HelloWorldApp.dll
+/Users/rajpanjabi/dev/Asp.net/HelloWorldApp/obj/Debug/net9.0/refint/HelloWorldApp.dll
+/Users/rajpanjabi/dev/Asp.net/HelloWorldApp/obj/Debug/net9.0/HelloWorldApp.pdb
+/Users/rajpanjabi/dev/Asp.net/HelloWorldApp/obj/Debug/net9.0/HelloWorldApp.genruntimeconfig.cache
+/Users/rajpanjabi/dev/Asp.net/HelloWorldApp/obj/Debug/net9.0/ref/HelloWorldApp.dll
